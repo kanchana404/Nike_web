@@ -26,11 +26,12 @@ const app = () => (
     <section className="padding">
       <SuperQuality />
     </section>
-    <section className="padding">
-      <SpecialOffer />
-    </section>
+   
     <section className="padding-x py-10">
       <Service />
+    </section>
+    <section className="padding-x py-10">
+      <SpecialOffer />
     </section>
     <section className="bg-pale-blue padding">
       <CustomerReview />
